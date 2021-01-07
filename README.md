@@ -16,9 +16,16 @@
 </p>
 
 # Quais comandos ele suporta?
+
+###  Obter dados do perfil
 `!gitprofile <username>` ou `!gp <username>`  
-  Busca as informações desse usuário e as trás
-  em uma mensagem elegante.
+Busca as informações desse usuário e as trás
+em uma mensagem elegante.
+  
+# Quero adicionar ele no meu servidor agora!
+Basta acessar este link, e adiciona-lo. Feito isso,
+você já pode usa-lo normalmente.
+ 
 
 
 # Como rodar o projeto na minha máquina?:
