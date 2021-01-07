@@ -15,10 +15,17 @@
   </p>
 </p>
 
-# Como rodar o projeto:
+# Quais comandos ele suporta?
+`!gitprofile <username>` ou `!gp <username>`  
+  Busca as informações desse usuário e as trás
+  em uma mensagem elegante.
+
+
+# Como rodar o projeto na minha máquina?:
 
 - Clone este repositório
 - Na pasta do projeto, rode o comando: `npm install`
+- Coloque o token do bot no arquivo `.env` que se encontra na raíz do projeto
 - Depois, rode: `node index.js`
 
 # Créditos: 
