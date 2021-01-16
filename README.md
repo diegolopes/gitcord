@@ -15,26 +15,29 @@
   </p>
 </p>
 
-## Quais comandos ele suporta?
+# Quais comandos ele suporta?
 
-###  Obter dados do perfil
-`!gitprofile <username>` ou `!gp <username>`  
-Busca as informações desse usuário e as trás
-em uma mensagem elegante.
+**Obter dados do perfil**  
+`!gitprofile <username>` 
+Busca as informações do usuário passado por prarâmetro e as manda
+em uma mensagem elegante. Exemplo:
+
+<img src="assets/images/example.png" alt="Exemplo de comando" width="220">
+
+
   
 # Quero adicionar ele no meu servidor agora!
-Basta adicionar ele no seu Discord, o usuário dele
- é xxx, depois é só adiciona-lo no seu servidor. Feito isso,
-você já pode usa-lo normalmente.
+Basta adicionar ele no seu Discord, o usuário dele é [Gitcord#5402](http://discord.com/users/795420409629376552)
+,depois é só adiciona-lo no seu servidor. Feito isso, você já pode usa-lo normalmente.
  
 
 
-## Como rodar o projeto na minha máquina?:
+# Como rodar o projeto na minha máquina?:
 
 - Clone este repositório
 - Na pasta do projeto, rode o comando: `npm install`
 - Coloque o token do bot no arquivo `.env` que se encontra na raíz do projeto
 - Depois, rode: `node index.js`
 
-## Créditos: 
+# Créditos: 
  - [Undraw](https://undraw.co) : Ilustrações
