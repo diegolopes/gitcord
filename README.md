@@ -22,7 +22,7 @@
 Busca as informações do usuário passado por prarâmetro e as manda
 em uma mensagem elegante. Exemplo:
 
-<img src="assets/images/example.png" alt="Exemplo de comando" width="220">
+<img src="assets/images/example.png" alt="Exemplo de comando" width="520">
 
 
   
