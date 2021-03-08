@@ -27,7 +27,7 @@ em uma mensagem elegante. Exemplo:
 
   
 # Quero adicionar ele no meu servidor agora!
-Basta adicionar ele no seu Discord, o usuário dele é [Gitcord#5402](http://discord.com/users/795420409629376552) caso vocẽ queira testa-lo, para adicionar ele no seu serivdor, vocẽ pode clicar 👉 [aqui.](https://discord.com/api/oauth2/authorize?client_id=795420409629376552&permissions=8&scope=bot)
+Basta adicionar ele no seu Discord, o usuário dele é [Gitcord#5402](http://discord.com/users/795420409629376552) caso vocẽ queira testa-lo, para adicionar ele no seu serivdor, você pode clicar 👉 [aqui.](https://discord.com/api/oauth2/authorize?client_id=795420409629376552&permissions=8&scope=bot)
 
 
 # Como rodar o projeto na minha máquina?:
